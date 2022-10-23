@@ -1,3 +1,6 @@
+app.use(cors({
+    origin: "*"
+}))
 $(function () {
     $(
         "#contactForm input,#contactForm textarea,#contactForm button"

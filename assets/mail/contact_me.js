@@ -25,7 +25,7 @@ $(function () {
             $.ajax({
                 // --- CHANGE THIS LINE TO YOUR OWN API GATEWAY  -------- 
                 //url: "{https://68hm28fwje.execute-api.us-east-1.amazonaws.com/default/lamda_func}",
-                url: "{https://rj45zvy1se.execute-api.eu-west-1.amazonaws.com/default/lambdafunctexaple}"
+                url: "{https://9vby3n8xoa.execute-api.eu-west-1.amazonaws.com/default/Cloud_Computing}"
                 // ------------------------------------------------------  
                 type: "POST",
                 data: JSON.stringify(json),
